@@ -1,4 +1,4 @@
-# HR-attrition-dashboard
+# project_dashboard.pbix
 Interactive Power BI dashboard analyzing HR employee attrition trends and insights.
 
 ## Screenshots
