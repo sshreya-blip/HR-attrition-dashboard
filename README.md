@@ -1,11 +1,11 @@
-# project_dashboard.pbix
+# HR Attrition Dashboard
 Interactive Power BI dashboard analyzing HR employee attrition trends and insights.
 
 ## Screenshots
 ![Dashboard Overview](images/dashboard.png) <!-- Add screenshot later -->
 
 ## How to Use
-1. Download `hr-attrition-dashboard.pbix`.
+1. Download `project_dashboard.pbix`.
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with slicers for department, tenure, etc.
 
