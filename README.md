@@ -3,10 +3,10 @@ Interactive Power BI dashboard analyzing HR employee attrition trends and insigh
 
 # HR Attrition Dashboard Preview
 
-![Overview](project.png)
-![Department Analysis](project2.png)
-![Employee Tenure](project3.png)
-![Key Influencers](project4.png)
+![Overview](images/project.png)
+![Department Analysis](images/project2.png)
+![Employee Tenure](images/project3.png)
+![Key Influencers](images/project4.png)
 
 
 ## How to Use
