@@ -3,18 +3,21 @@ Interactive Power BI dashboard analyzing HR employee attrition trends and insigh
 
 # HR Attrition Dashboard Preview
 
-![Overview](images/project.png)
-![Department Analysis](images/project2.png)
-![Employee Tenure](images/project3.png)
-![Key Influencers](images/project4.png)
+![Overview]
+(images/project.png)
+![Department Analysis]
+(images/project2.png)
+![Employee Tenure]
+(images/project3.png)
+![Key Influencers]
+(images/project4.png)
 
 
 ## How to Use
 1.Click [project_dashboard.pdf](https://github.com/user-attachments/files/26505932/project_dashboard.pdf)
  to view pdf document.
-2. Download `project_dashboard.pbix`.
-3. Open in Power BI Desktop.
-4. Interact with slicers for department, tenure, etc.
+2. Open in Power BI Desktop.
+3. Interact with slicers for department, tenure, etc.
 
 ## Key Insights
 - Top attrition factors: Low satisfaction, high workload.
